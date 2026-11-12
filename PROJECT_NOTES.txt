@@ -1,0 +1,15 @@
+SANKAR GROUP FRONT-END DEVELOPMENT ASSIGNMENT
+
+Product: FlowPilot
+Type: SaaS productivity/work management platform
+
+Files:
+- index.html
+- styles.css
+- script.js
+- README.md
+- screenshots/desktop.png
+- screenshots/mobile.png
+- screenshots/mobile-form.png
+
+The site is static and can be deployed directly to GitHub Pages, Netlify, Vercel, or any static hosting provider.

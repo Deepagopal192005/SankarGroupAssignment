@@ -1,0 +1,8 @@
+FlowPilot is a clean SaaS productivity landing page designed around the idea of helping teams turn busy work into visible progress.
+I used a calm cream and forest-green palette with a lime accent to communicate clarity, trust, and action.
+The hero dashboard illustration explains the product visually without requiring an external product screenshot.
+Responsive CSS changes the multi-column desktop layout into a single-column mobile experience.
+The navigation, CTA buttons, mobile menu, and demo form are functional with vanilla JavaScript.
+The form validates the required fields and displays a success message without a backend.
+The main challenge was keeping the interface visually rich while using only lightweight HTML, CSS, and JavaScript.
+The result is a static site that can be deployed directly to GitHub Pages or another static hosting service.
